@@ -28,10 +28,10 @@
 - 便于离线查看或与家人共享保单信息
 
 ## 技术实现
-- 前端：Vue.js + Element UI
+- 前端：Vue.js 
 - 后端：Spring Boot
 - 数据库：MySQL
-- 可视化：ECharts
+
 
 
 ![系统概述图](readme/1.drawio.png)
